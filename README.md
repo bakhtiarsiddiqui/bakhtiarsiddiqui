@@ -28,16 +28,16 @@
 <h3 align="center">👋 About me</h3>
 
 <p align="center">
-Hi, I'm <b>Bakhtiar Siddiqui</b> — a B.Tech student specializing in <b>Artificial Intelligence & Machine Learning</b>.<br/>
+Hi, I'm <b>Bakhtiar Siddiqui</b> — a B.Tech student specializing in <b>Artificial Intelligence & Machine Learning</b>, focused on building <b>AI agents and multi-agent systems</b>.<br/>
 I like to think outside the box, building solutions for problems that don't fully exist yet.<br/>
-I care about clean data pipelines, model accuracy that's actually verified, and shipping things that work end-to-end.
+I care about clean data pipelines, agent workflows with human-in-the-loop control, model accuracy that's actually verified, and shipping things that work end-to-end.
 </p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Machine%20Learning%20%26%20NLP-ff006e?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Computer%20Vision-8338ec?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Generative%20AI%20%26%20LLMs-3a86ff?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AI%20Agents%20%26%20Multi--Agent%20Systems-ff006e?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Generative%20AI%20%26%20LLMs-8338ec?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Machine%20Learning%20%26%20NLP-3a86ff?style=flat-square&logoColor=white"/>
 
 </div>
 
@@ -47,9 +47,7 @@ I care about clean data pipelines, model accuracy that's actually verified, and 
 
 <p align="center"><b>Core Languages</b></p>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,r&perline=6" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python&perline=6" />
 </div>
 
 <br/>
@@ -59,17 +57,19 @@ I care about clean data pipelines, model accuracy that's actually verified, and 
 <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </div>
 
 <br/>
 
-<p align="center"><b>NLP &nbsp;&nbsp;/&nbsp;&nbsp; Computer Vision &nbsp;&nbsp;/&nbsp;&nbsp; Generative AI</b></p>
+<p align="center"><b>Agentic AI &nbsp;&nbsp;/&nbsp;&nbsp; LLM Engineering &nbsp;&nbsp;/&nbsp;&nbsp; Evaluation &nbsp;&nbsp;/&nbsp;&nbsp; NLP</b></p>
 <div align="center">
 
-TF-IDF · Cosine Similarity · Keyword Extraction &nbsp;&nbsp;|&nbsp;&nbsp; Face Detection & Recognition, Deep Embeddings &nbsp;&nbsp;|&nbsp;&nbsp; Prompt Engineering, RAG, OpenAI API
+Agent Orchestration, Multi-Agent Systems, Human-in-the-Loop Workflows &nbsp;&nbsp;|&nbsp;&nbsp; Prompt Engineering, RAG, Semantic Search & Embeddings &nbsp;&nbsp;|&nbsp;&nbsp; Eval Metrics, Held-Out Model Evaluation, Audit Trails &nbsp;&nbsp;|&nbsp;&nbsp; TF-IDF · Cosine Similarity
 
 </div>
 
@@ -103,14 +103,14 @@ Web scraping + regression models tracking 100+ product price points, predicting 
 
 **📄 AI Resume Analyzer**
 
-NLP resume-to-job matcher using TF-IDF & cosine similarity (~80–85% relevance accuracy), cutting manual screening effort by ~60% via a Streamlit app.
+NLP resume-to-job matcher using TF-IDF & cosine similarity (~80–85% relevance accuracy), cutting manual screening effort by ~60% via a React + FastAPI web app.
 
 </td>
 <td width="33%" valign="top">
 
-**👁️ Facial Recognition System**
+**🛡️ [Chargeback Sentinel](https://github.com/bakhtiarsiddiqui/chargeback-sentinel)**
 
-Real-time face recognition with OpenCV + deep embeddings, ~90% accuracy and ~200–300ms latency per frame, tuned for a 25% speed boost.
+Multi-agent chargeback defense platform: an orchestrator coordinating risk, evidence-verification, win-probability (FastAPI ML) and narrative agents, with human-in-the-loop review and a full audit trail.
 
 </td>
 </tr>
